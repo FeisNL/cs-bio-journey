@@ -78,3 +78,26 @@
 **Notes:**
 - It’s totally normal to struggle with this at first — combining slicing, indexing, conditionals and counters is hard at the start
 - But I understood it and can now explain it back confidently!
+
+## 🗓️ Summary for 11–12 May 2025 – Week 1 Days 6 & 7
+### ✅ What I Accomplished
+
+**Saturday (11 May)**
+- Completed `ps1_scratch.py` prototype of Newton’s Method
+- Learned how to safely accept user input using `try/except`
+- Refactored code to validate input and prevent crashes
+- Learned the importance of `main()` and `if __name__ == "__main__":`
+- Fixed common bugs: `guesss`, extra parentheses, indentation, and scope issues
+
+**Sunday (12 May)**
+- Finalized and cleaned up `ps1.py` for submission
+- Wrote detailed print statements with guess + step counter
+- Saved the final version into the problem set folder
+- Generated a fully documented Word summary for `ps1.py`
+- Committed and pushed `ps1.py` to GitHub using best Git practices
+
+### 💡 What I Learned
+- How Newton’s method approximates square roots via iteration
+- How scope, indentation, and user validation affect real-world Python scripts
+- How to structure scripts professionally using `main()` and entry points
+- How to use Git to track versions and organize problem sets clearly
